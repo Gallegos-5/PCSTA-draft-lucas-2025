@@ -44,6 +44,10 @@ The **Pediatric Care Stability & Transparency Act (PCSTA)** is a process-first l
 - [Pediatric Care Stability & Transparency Act.pdf](./PCSTA.pdf)
 
 ---
+## DOI
+
+[Gallegos, Lucas. *Pediatric Care Stability & Transparency Act (PCSTA)*. Zenodo, 2025.](https://doi.org/10.5281/zenodo.16627484)
+****
 
 ## Part of the G5 Reform Portfolio
 
