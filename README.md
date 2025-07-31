@@ -59,6 +59,12 @@ Contact: g5policyteam@gmail.com
 
 ---
 
+**Join the conversation:**  
+[Discuss the G5 portfolio and this act here.](https://github.com/Gallegos-5/G5-Portfolio/discussions)
+
+---
+
+
 ## License
 
 This project is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).  
