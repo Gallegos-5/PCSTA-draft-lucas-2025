@@ -6,7 +6,7 @@
 
 ## Overview
 
-The **Pediatric Care Stability & Transparency Act (PCSTA)** is a process-first legislative proposal to ensure sustainable, abuse-proof funding for pediatric hospital care in the United States. PCSTA v2.0 creates transparent allocation mechanisms, public dashboards, and robust audit trails to ensure equity, stability, and trust in children’s health services.
+The **Pediatric Care Stability & Transparency Act (PCSTA)** is a process-first legislative proposal to ensure sustainable, abuse-proof funding for pediatric hospital care in the United States. PCSTA creates transparent allocation mechanisms, public dashboards, and robust audit trails to ensure equity, stability, and trust in children’s health services.
 
 ---
 
@@ -41,7 +41,7 @@ The **Pediatric Care Stability & Transparency Act (PCSTA)** is a process-first l
 
 ## Current Draft
 
-- [Pediatric Care Stability & Transparency Act.pdf](./PCSTA.pdf)
+- [PCSTA.pdf](./PCSTA.pdf)
 
 ---
 
