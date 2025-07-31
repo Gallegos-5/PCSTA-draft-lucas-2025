@@ -41,7 +41,7 @@ The **Pediatric Care Stability & Transparency Act (PCSTA)** is a process-first l
 
 ## Current Draft
 
-- [PCSTA.pdf](./PCSTA.pdf)
+- [Pediatric Care Stability & Transparency Act.pdf](./PCSTA.pdf)
 
 ---
 
