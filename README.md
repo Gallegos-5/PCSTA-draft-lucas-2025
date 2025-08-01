@@ -73,6 +73,16 @@ Contact: g5policyteam@gmail.com
 
 ---
 
+## Support This Project
+
+If you’d like to help fund open-source policy reform, you can tip the author:
+
+**Venmo:** [@g5policy](https://venmo.com/g5policy)  
+*(Any amount helps keep public-interest policy moving forward!)*
+
+---
+
+
 
 ## License
 
