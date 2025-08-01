@@ -3,7 +3,12 @@
 **A federal blueprint for stable, transparent, and accountable pediatric hospital funding.**
 
 ---
-
+> **Why it matters:**  
+> • **Stops boom-bust funding cycles** that shutter children’s hospitals  
+> • **Transparent metrics** show every dollar’s impact on kids’ outcomes  
+> • **Abuse-proof payment model**—no more hidden cuts or surprise claw-backs  
+> • **Template for fixing funding in all critical-care sectors**
+---
 ## Overview
 
 The **Pediatric Care Stability & Transparency Act (PCSTA)** is a process-first legislative proposal to ensure sustainable, abuse-proof funding for pediatric hospital care in the United States. PCSTA creates transparent allocation mechanisms, public dashboards, and robust audit trails to ensure equity, stability, and trust in children’s health services.
